@@ -3,6 +3,11 @@
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
     <PackageLicenseFile>LICENSE.txt</PackageLicenseFile>
+    <PackageProjectUrl>https://github.com/olawale12/ClipsHttpRestSharp</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/olawale12/ClipsHttpRestSharp</RepositoryUrl>
+    <RepositoryType>GitHub</RepositoryType>
+    <PackageTags>RestClient</PackageTags>
+    <PackageReleaseNotes>this library is depend on rest sharp</PackageReleaseNotes>
   </PropertyGroup>
 
   <ItemGroup>
